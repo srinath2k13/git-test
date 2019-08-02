@@ -1,0 +1,5 @@
+This  is git repository text file with message..
+	1.status
+	2.commit 
+	3.log
+
